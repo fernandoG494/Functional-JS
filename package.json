@@ -12,7 +12,8 @@
   "dependencies": {
     "@babel/core": "^7.18.2",
     "@babel/node": "^7.17.10",
-    "@babel/preset-env": "^7.18.2"
+    "@babel/preset-env": "^7.18.2",
+    "an-array-of-english-words": "^2.0.0"
   },
   "devDependencies": {
     "eslint": "^8.16.0",
